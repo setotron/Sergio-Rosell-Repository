@@ -1,0 +1,17 @@
+#uno {
+    font-family: Algerian;
+    font-size: 12px;
+    text-transform: capitalize;
+}
+
+#dos {
+    font-family: Bahnschrift;
+    font-size: 12px;
+    font-style: oblique;
+}
+
+#tres {
+    font-family: "Segoe Print";
+    font-size: 12px;
+    font-weight: bold;
+}
